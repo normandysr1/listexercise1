@@ -1,3 +1,4 @@
+//Natthapong Burakitphachai 570611011
 #include <iostream>
 #include "list.h"
 using namespace std;
